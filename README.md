@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Edge AI, Autonomous Robots, Computer vision and AI
-- 🌱 I’m currently learning Computational Neuroscience
+- 🌱 I’m currently learning 3D reconstruction, Robot Manipulation and Planning
 - 📫 How to reach me: [Website](https://adithya.de)
 - 😄 Pronouns: He/ Him
 
